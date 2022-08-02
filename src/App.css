@@ -20,7 +20,12 @@
 
 .bio {
   text-align: center;
-  color: gray;
+  color:blue;
+  margin-top: 16px;
+}
+.personnalNote {
+  text-align: center;
+  color:red;
   margin-top: 16px;
 }
 
